@@ -8,11 +8,7 @@ Implemented Machine Learning and Artificial Intelligence model to detect the dif
 - Convolutional Neural Networks (CNN)
 - Machine Learning
 - Flask
-# Project Execution Video's :- 
-"C:\Users\91766\Downloads\deployment video.mp4"
-
-
-
+- 
 # Screenshots of Application and Deployment :- 
 image_1 : ![WhatsApp Image 2024-06-19 at 14 44 01_a9c4962b](https://github.com/yashrajgupta1/PLANT-DISEASE-DETECTION/assets/170006396/a5b0a982-380c-41ae-95d3-38cfcfb34da2)
 image_2 : ![WhatsApp Image 2024-06-19 at 14 44 01_64bf6ad1](https://github.com/yashrajgupta1/PLANT-DISEASE-DETECTION/assets/170006396/79df81ac-5c80-428a-8c53-2ddc1d611fc9)
